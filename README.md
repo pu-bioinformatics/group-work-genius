@@ -10,6 +10,6 @@ Given the number of sequences, read length and the name of the output file as fa
  - Joy NoiseMaker
 
  ## Comments
- This is a very nice and clean implementation. Nice work. The only critique would be that you do not provide enough information as to what the tool does. What is the usage of the script? -2 points for that, otherwise Kuddos. 
+ This is a very nice and clean implementation. Nice work. The only critique would be that you do not provide enough information as to what the tool does. What is the usage of the script? -1 point for that, otherwise Kudos. 
 
  9/10 points
